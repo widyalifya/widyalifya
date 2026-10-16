@@ -1,15 +1,15 @@
 
+ 
+![Widya's Profile Banner](./banner.png)
 
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Widya's Profile Banner"/>
-<br/>
 
 ### ✦ Learning, Creating & Growing ✦
 
 *Turning ideas into meaningful digital experiences.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/widyalifya)
-[![Web Design](https://img.shields.io/badge/Web%20Design-E8C9DF?style=flat-square&logo=figma&logoColor=493B58)](https://github.com/widyalifya)
+[![Web Design](https://img.shields.io/badge/Web%20Design-E8C9DF?style=flat-square&logo=figma&logoColor=493B5B)](https://github.com/widyalifya)
 
 </div>
 

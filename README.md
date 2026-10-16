@@ -1,7 +1,7 @@
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:DBC9F5,50:E8C9DF,100:F6DDE7&height=190&section=header&text=Widya%20Allifya%20Az%20Zahra&fontSize=32&fontColor=493B58&fontAlignY=40&desc=Informatics%20Engineering%20Student&descAlignY=65&descSize=16" width="100%" alt="Widya's profile banner"/>
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Widya's Profile Banner"/>
 
 <br/>
 

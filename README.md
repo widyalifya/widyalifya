@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="./banner.png" width="100%" alt="Widya's Profile Banner"/>
-
 <br/>
 
 ### ✦ Learning, Creating & Growing ✦

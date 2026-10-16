@@ -86,18 +86,21 @@ I'm interested in creating user-friendly websites, exploring digital design, and
 
 ---
 
+
 ## ♡ Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/widyalifya">
+    <img src="https://img.shields.io/badge/GitHub-My%20Projects-DCC7F2?style=for-the-badge&logo=github&logoColor=493B58" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/widya-allifya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-E8C9DF?style=for-the-badge&logo=linkedin&logoColor=493B58" alt="LinkedIn"/>
+  </a>
+</p>
 
-I'm always open to learning, sharing ideas, and connecting with fellow learners and developers.
-
-[![GitHub](https://img.shields.io/badge/GitHub-My%20Projects-DBC9F5?style=for-the-badge&logo=github&logoColor=493B58)](https://github.com/widyalifya)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-E8C9DF?style=for-the-badge&logo=linkedin&logoColor=493B58)](www.linkedin.com/in/widya-allifya)
-
-<br/>
-
-*“Little by little, a little becomes a lot.”* ♡
+<p align="center">
+  <i>Little by little, a little becomes a lot. ♡</i>
+</p>
 
 </div>

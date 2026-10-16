@@ -1,19 +1,24 @@
 
  
-![Widya's Profile Banner](./banner.png)
 
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Widya's Profile Banner"/>
+</p>
 <div align="center">
-
-### ✦ Learning, Creating & Growing ✦
-
-*Turning ideas into meaningful digital experiences.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/widyalifya)
-[![Web Design](https://img.shields.io/badge/Web%20Design-E8C9DF?style=flat-square&logo=figma&logoColor=493B5B)](https://github.com/widyalifya)
-
+  <h3>✦ Learning, Creating & Growing ✦</h3>
+  <p><i>Turning ideas into meaningful digital experiences.</i></p>
+  <p>
+    <a href="https://github.com/widyalifya">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://github.com/widyalifya">
+      <img src="https://img.shields.io/badge/Web%20Design-E8C9DF?style=flat-square&logo=figma&logoColor=493B5B" alt="Web Design"/>
+    </a>
+  </p>
 </div>
 
 ---
+
 
 ## ♡ About Me
 
